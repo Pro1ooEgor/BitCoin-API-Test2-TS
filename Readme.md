@@ -7,7 +7,11 @@
 download code
 
 ```bash
-cd testbtc
+git clone https://github.com/Pro1ooEgor/BitCoin-API-Test2-TS
+```
+
+```bash
+cd BitCoin-API-Test2-TS
 ```
 
 ```bash
